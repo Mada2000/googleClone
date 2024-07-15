@@ -23,7 +23,18 @@
     padding: 5px;
     padding-left: 15px;
     padding-right: 15px;
-    margin-top: 20px;
+    margin-top: 30px;
+    margin-right: 7 px;
+    font-size: 15px;
+    border-radius: 5px;
+    border-color: transparent;
+}
+.button2{
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-top: 30px;
+    margin-left: 7px;
     font-size: 15px;
     border-radius: 5px;
     border-color: transparent;
